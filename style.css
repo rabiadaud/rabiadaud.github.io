@@ -1,0 +1,30 @@
+body
+{
+	background-color: #CFB53B;
+	font-family: "futura"
+}
+
+.carouselImages
+{
+	height: 47vh; 
+	margin-left:35vw;
+}
+
+
+#slideshow
+{
+
+	max-height: 40vh!important;
+
+}
+
+#ScheduleACall
+{
+	margin-top: 5vh;
+}
+
+#ScheduleACall:hover
+{
+	background-color: black;
+	color: #CFB53B;	
+}
