@@ -38,6 +38,15 @@ body
 	color: #CFB53B;	
 }
 
+#updates
+{
+	margin-left: 16vw;
+	border: 3px solid black;
+	height: 30vh;
+	overflow-y: scroll;
+	width: 14vw;
+}
+
 
 .infoButtons
 {
@@ -54,4 +63,16 @@ body
 {
 	color: black;
 
+}
+
+
+thead
+{
+	background-color: black;
+	color:#CFB53B;
+}
+
+td
+{
+	border:1px solid black;
 }
