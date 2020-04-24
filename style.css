@@ -10,7 +10,6 @@ body
 	margin-left:35vw;
 }
 
-
 #slideshow
 {
 
@@ -18,8 +17,18 @@ body
 
 }
 
+#quote
+{
+	border: 3px solid black;
+	padding: 1vw;
+	width: 30vw;
+
+}
+
 #ScheduleACall
 {
+	position: relative;
+
 	margin-top: 5vh;
 }
 
@@ -27,4 +36,22 @@ body
 {
 	background-color: black;
 	color: #CFB53B;	
+}
+
+
+.infoButtons
+{
+	margin-left: 17vw;
+}
+
+.socialMedia
+{
+	color: black;
+	margin-left: -5vw;
+}
+
+.socialMedia:hover
+{
+	color: black;
+
 }
